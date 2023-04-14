@@ -2,3 +2,6 @@ Monster #2 eats:
 *cookies
 *flowers
 *oranges
+
+Also monster #2 drinks:
+*orange juice
